@@ -78,5 +78,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "algorithms-search",
+      "title": "Search Algorithms",
+      "description": "Implement and compare linear and binary search in Python.",
+      "path": "assignments/algorithms-search",
+      "dueDate": "2026-06-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
